@@ -1,7 +1,7 @@
 # Invoice-System - React App
   ![](https://komarev.com/ghpvc/?username=mscbuild) 
  ![](https://img.shields.io/github/license/mscbuild/e-learning) 
- ![](https://img.shields.io/github/repo-size/mscbuild/e-learning)
+ ![](https://img.shields.io/github/repo-size/mscbuild/Invoice-System)
 ![](https://img.shields.io/badge/PRs-Welcome-green)
 ![](https://img.shields.io/badge/code%20style-react-green)
 ![](https://img.shields.io/github/stars/mscbuild)
@@ -20,7 +20,7 @@ An Invoice creator project built with React. Add itemized items, configure quant
 
 ### Installation
 
-```
+```ruby
 git clone https://github.com/johnuberbacher/invoice-generator
 
 npm install
